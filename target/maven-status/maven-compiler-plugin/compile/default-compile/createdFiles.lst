@@ -1,0 +1,7 @@
+com/davidhuh/crpoc/model/User.class
+com/davidhuh/crpoc/repository/UserRepository.class
+com/davidhuh/crpoc/controller/UserController.class
+com/davidhuh/crpoc/validator/UserValidator.class
+com/davidhuh/crpoc/CrpocApplication.class
+com/davidhuh/crpoc/controller/UserRestController.class
+com/davidhuh/crpoc/service/UserService.class
