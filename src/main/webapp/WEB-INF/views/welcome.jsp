@@ -14,7 +14,7 @@
 
 <div class="container-fluid">
             <div style="text-align:center">
-            	<h2>Consumer Reports - Evaluation Project</h2>
+            	<h2>Proof of Concept</h2>
             	<c:if test="${userFormRedirected != null}">
             	<div class="alert alert-success" role="alert">
 					<div>Registration Successful! ${userFormRedirected.firstName} was added!</div>
